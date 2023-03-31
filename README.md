@@ -1,3 +1,5 @@
+
+
 <h2 align="center">Openai Detector</h2>
 <p align="center">
   <p align="center">Open AI classifier for indicating AI-written text
@@ -18,6 +20,7 @@
     <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="colab" />
   </a>
 </h4>
+## https://github.com/promptslab/openai-detector.git
 
 ## Installation
 
